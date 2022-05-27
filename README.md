@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [HISS](https://github.com/green726/HISS)
 
-- 🌱 I’m currently learning **LLVM, Rust**
-
 - 🔭 And also [Rover-delivery](https://github.com/green726/rover-delivery)
 
-- Here is my Neovim config [greenvim](https://github.com/green726/greenvim)
+- 🌱 I’m currently learning **LLVM, Rust**
+
+- ⚙️ Here is my Neovim config [greenvim](https://github.com/green726/greenvim)
 
 - 💬 Ask me about **Socket.io, Unity**
 
