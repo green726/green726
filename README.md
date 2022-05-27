@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=green726" alt="green726" /></a> </p>
 
-- 🔭 I’m currently working on [HISS](https://github.com/green726/HISS)
-
-- 🔭 And also [Rover-delivery](https://github.com/green726/rover-delivery)
+- 🔭 I’m currently working on [HISS](https://github.com/green726/HISS) and also [Rover-delivery](https://github.com/green726/rover-delivery)
 
 - 🌱 I’m currently learning **LLVM, Rust**
 
