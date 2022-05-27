@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **LLVM, Rust**
 
-- ⚙️ Here is my Neovim config [greenvim](https://github.com/green726/greenvim)
+- ⚙️ Here is my Neovim [config](https://github.com/green726/greenvim)
 
 - 💬 Ask me about **Socket.io, Unity**
 
