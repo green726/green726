@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=green726&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=green726&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=green726&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Green726 StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/:profile/:13550188)](https://stackoverflow.com/users/13550188/green726))]
+[![Green726 StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/:profile/:13550188)(https://stackoverflow.com/users/13550188/green726)]
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=green726&theme=nord&no-frame=false&no-bg=false&margin-w=4)
