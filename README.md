@@ -5,11 +5,10 @@
 
 - ⚙️ Here is my Neovim [config](https://github.com/green726/greenvim)
 
-- 💬 Ask me about **Socket.io, Unity**
+- ⚡ Fun fact **I spend too much time configuring neovim**
 
 - 📫 How to reach me **mguinangreen726@gmail.com**
 
-- ⚡ Fun fact **I spend too much time configuring neovim**
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@green726) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/green726) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/green726I) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13550188) 
