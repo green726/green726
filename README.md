@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on [SWO](https://github.com/green726/HISS) and also [Rover-delivery](https://github.com/green726/rover-delivery)
 
-- 🌱 I’m currently learning **LLVM, Rust**
+- 🌱 I’m currently learning **LLVM**
 
 - ⚙️ Here is my Neovim [config](https://github.com/green726/greenvim)
 
