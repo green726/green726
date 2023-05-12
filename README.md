@@ -1,11 +1,11 @@
 # 💫About Me :
-- 🔭 I’m currently working on [SWO](https://github.com/green726/HISS) and also [Rover-delivery](https://github.com/green726/rover-delivery)
+- 🔭 I’m currently working on [SWO](https://github.com/green726/HISS) and also [Hazel](https://github.com/hazelgrove/hazel)
 
-- 🌱 I’m currently learning **LLVM**
+- 🌱 I’m currently learning **LLVM, ReasonML and Hazel**
 
 - ⚙️ Here is my Neovim [config](https://github.com/green726/greenvim)
 
-- ⚡ Fun fact **I spend too much time configuring neovim**
+- ⚡ Fun fact: **I spend too much time configuring neovim**
 
 - 📫 How to reach me **mguinangreen726@gmail.com**
 
