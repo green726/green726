@@ -1,9 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [SWO](https://github.com/green726/SWO) and also [Hazel](https://github.com/hazelgrove/hazel)
+- 🔭 I’m currently working on [SWO](https://github.com/green726/SWO) and [Hazel](https://github.com/hazelgrove/hazel)
 
 - 🌱 I’m currently learning **LLVM, ReasonML and Hazel**
-
-- ⚙️ Here is my Neovim [config](https://github.com/green726/greenvim)
 
 - ⚡ Fun fact: **I spend too much time configuring neovim**
 
