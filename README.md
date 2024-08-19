@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [SWO](https://github.com/green726/SWO) and [Hazel](https://github.com/hazelgrove/hazel)
+- 🔭 I’m currently working with [COMPAS](https://compas.cs.stonybrook.edu/), [FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1), and [Martiniani Lab](https://martinianilab.org/)
 
-- 🌱 I’m currently learning **LLVM, ReasonML and Hazel**
+- 🌱 I’m currently learning **LLVM, MLIR, and PL Theory**
 
 - ⚡ Fun fact: **I spend too much time configuring neovim**
 
