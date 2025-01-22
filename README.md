@@ -1,18 +1,15 @@
 # 💫About Me :
-- 🔭 I’m currently working with [COMPAS](https://compas.cs.stonybrook.edu/), [FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1), and [Martiniani Lab](https://martinianilab.org/)
+- 🔭 I’m currently working with [Stony Brook University COMPAS Lab](https://compas.cs.stonybrook.edu/) and [University of Michigan FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
 
 - 🌱 I’m currently learning **LLVM, MLIR, and PL Theory**
 
 - ⚡ Fun fact: **I spend too much time configuring neovim**
 
-- 📫 How to reach me **mguinangreen726@gmail.com**
+- 📫 How to reach me **mguinangreen726@gmail.com** or **mlustig@cs.stonybrook.edu**
 
 
 ## 🌐Socials
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13550188) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/green726)
-
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13550188)
 
 # 📊Stats :
 ![](https://github-readme-stats.vercel.app/api?username=green726&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -23,8 +20,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=green726&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Favorite Quote
+> "I don't believe in astrology. I'm a Sagittarius and we're skeptical." - Arthur C. Clarke
 
 ---
 [![](https://visitcount.itsvg.in/api?id=green726&icon=0&color=0)](https://visitcount.itsvg.in)
