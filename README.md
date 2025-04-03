@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: **I spend too much time configuring neovim**
 
-- 📫 How to reach me **mguinangreen726@gmail.com** or **mlustig@cs.stonybrook.edu**
+- 📫 How to reach me **milan@lustig.dev** or **mlustig@cs.stonybrook.edu**
 
 
 ## 🌐Socials
