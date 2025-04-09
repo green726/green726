@@ -1,9 +1,9 @@
 # 💫About Me :
+ I am a student and computer science researcher studying Electrical Engineering and Computer Science (EECS) at Yale University (co '29)
+
 - 🔭 I’m currently working with [Stony Brook University COMPAS Lab](https://compas.cs.stonybrook.edu/) and [University of Michigan FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
 
 - 🌱 I’m currently learning **LLVM, MLIR, and PL Theory**
-
-- ⚡ Fun fact: **I spend too much time configuring neovim**
 
 - 📫 How to reach me **milan@lustig.dev** or **mlustig@cs.stonybrook.edu**
 
