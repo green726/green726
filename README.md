@@ -1,5 +1,5 @@
 # 💫About Me :
- I am a student and computer science researcher studying Science (EECS) at Harvard University (co '29)
+ I am a student and computer science researcher studying computer science at Harvard University (co '29)
 
 - 🔭 I’m currently working with [Stony Brook University COMPAS Lab](https://compas.cs.stonybrook.edu/) and [University of Michigan FP Lab](https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1)
 
