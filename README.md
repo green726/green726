@@ -1,7 +1,7 @@
 Compilers are cool
 
 Studying CS @ Harvard & working with
- * [COMPAS Lab](https://github.com/hazelgrove/hazel)
+ * [COMPAS Lab](https://github.com/COMPAS-Lab)
  * [FP Lab](https://github.com/hazelgrove/hazel)
 
 
