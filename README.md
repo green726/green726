@@ -1,6 +1,6 @@
 Compilers are cool
 
-Studying CS @ Harvard & working with
+Building [Opt32](https://www.opt32.com) while on leave from Harvard (cs/phil)
  * [COMPAS Lab](https://github.com/COMPAS-Lab)
  * [FP Lab](https://github.com/hazelgrove/hazel)
 
