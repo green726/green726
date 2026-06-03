@@ -1,6 +1,6 @@
 Compilers are cool
 
-Building [Opt32](https://www.opt32.com) while on leave from Harvard (cs/phil)
+Building [Spring Silicon](https://www.springsilicon.com) while on leave from Harvard (cs/phil)
  * [COMPAS Lab](https://github.com/COMPAS-Lab)
  * [FP Lab](https://github.com/hazelgrove/hazel)
 
